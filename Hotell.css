@@ -32,9 +32,9 @@ body {
   background-size: cover;
 }
 
-/**********************'' sidan när är det under 700 px ************************/
-/* navigation bar under 700 px*/
-@media screen and (max-width: 700px) {
+/**********************'' sidan när är det under 1000 px ************************/
+/* navigation bar under 1000 px*/
+@media screen and (max-width: 1000px) {
   #navbar a {
     float: none;
     display: block;
@@ -42,7 +42,7 @@ body {
     font-size: 45px;
   }
 
-  /* altervativen(strat, boka, .....)under 700 px */
+  /* altervativen(strat, boka, .....)under 1000 px */
   #navbar-right {
     float: none;
     margin-top: 0px;
@@ -61,7 +61,7 @@ body {
     font-size: 20px;
   }
 
-  /* texten på bilden (hotellen) under 700 px*/
+  /* texten på bilden (hotellen) under 1000 px*/
   #texten {
     font-size: 18px;
   }
@@ -70,7 +70,7 @@ body {
     height: 800px;
   }
 
-  /* rubriken för hotellen (för enklare liv och Hotellen i skåne) under 700 px*/
+  /* rubriken för hotellen (för enklare liv och Hotellen i skåne) under 1000 px*/
   h4 {
     margin-top: 300px;
     text-align: center;
