@@ -165,9 +165,9 @@ button {
   font-size: 30px;
 }
 
-/***************************** sidan när är det under 700 px *********************************/
+/***************************** sidan när är det under 1000 px *********************************/
 /* navigation bar */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
   #navbar a {
     float: none;
     display: block;
@@ -187,7 +187,7 @@ button {
     height: 400px;
   }
 
-  /*************************Kontakta under 700 px************************** */
+  /*************************Kontakta under 1000 px************************** */
   h2 {
     text-align: center;
   }
@@ -196,7 +196,7 @@ button {
     font-size: 21px;
   }
 
-  /*************************Boka under 700 px************************** */
+  /*************************Boka under 1000 px************************** */
   input {
     width: 100%;
   }
